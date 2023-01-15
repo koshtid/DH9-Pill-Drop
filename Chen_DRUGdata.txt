@@ -1,0 +1,4 @@
+TIME 	MEDICINE 	DOSAGE 	TAKEN
+11:20:24		weanne		1		Yes
+11:20:39		weanne		1		Yes
+11:22:29		weanne		1		Yes
